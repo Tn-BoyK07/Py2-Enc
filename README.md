@@ -1,4 +1,4 @@
-# Encrypter by Tn.BoyK07
+# Python2 Encryptor
 ===============================================================================
 
 $ pkg update && pkg upgrade
@@ -20,10 +20,3 @@ $ cd Py2-Enc
 $ python2 enc.py
 
 ===============================================================================
-
-# Contact Me:
-WhatsApp : https://api.whatsapp.com/send?phone=62859181977385
-
-Facebook : Abbot Tak Terimo
-
-Messenger : https://m.me/Tn.BoyK07
